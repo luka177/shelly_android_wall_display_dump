@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test_item>
+  
+<test_item id="1">  
+    <name_ch>设备信息</name_ch>
+    <name_en>Tablet Info</name_en>
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="2">  
+    <name_ch>触屏测试</name_ch>
+    <name_en>TP Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="3">  
+    <name_ch>红绿蓝测试</name_ch>
+    <name_en>MireRgb</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="4">  
+    <name_ch>黑色测试</name_ch>
+    <name_en>Black Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="5">  
+    <name_ch>灰色测试</name_ch>
+    <name_en>Gray Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="6">  
+    <name_ch>灰色渐变测试</name_ch>
+    <name_en>GreyChart Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="7">  
+    <name_ch>白色测试</name_ch>
+    <name_en>White Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="8">  
+    <name_ch>按键测试</name_ch>
+    <name_en>KeyPad Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="9">  
+    <name_ch>背光测试</name_ch>
+    <name_en>BackLight Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="10">  
+    <name_ch>后闪光灯测试</name_ch>
+    <name_en>Back CameraLed Test</name_en>  
+    <is_display>true</is_display>  
+</test_item> 
+
+<test_item id="11">  
+    <name_ch>前闪光灯测试</name_ch>
+    <name_en>Front CameraLed Test</name_en>  
+    <is_display>false</is_display>  
+</test_item> 
+
+
+<test_item id="12">  
+    <name_ch>听筒测试</name_ch>
+    <name_en>Receiver Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+<test_item id="13">  
+    <name_ch>扬声器测试</name_ch>
+    <name_en>Speaker Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>   
+
+<test_item id="14">  
+    <name_ch>震动测试</name_ch>
+    <name_en>Vibrator Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="15">  
+    <name_ch>耳机插拔测试</name_ch>
+    <name_en>HeadSet Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="16">  
+    <name_ch>USB插拔测试</name_ch>
+    <name_en>USB Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="17">  
+    <name_ch>光感测试</name_ch>
+    <name_en>LightSensor Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+<test_item id="18">  
+    <name_ch>近距离感应测试</name_ch>
+    <name_en>Alsps Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+<test_item id="19">  
+    <name_ch>SIM测试</name_ch>
+    <name_en>SIM Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="20">  
+    <name_ch>SD存储卡测试</name_ch>
+    <name_en>SDCard Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="21">  
+    <name_ch>电池温度测试</name_ch>
+    <name_en>Battery Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="22">  
+    <name_ch>蓝牙测试</name_ch>
+    <name_en>Bluetooth Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="23">  
+    <name_ch>WIFI测试</name_ch>
+    <name_en>WIFI Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="24">  
+    <name_ch>GPS测试</name_ch>
+    <name_en>GPS Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="25">  
+    <name_ch>收音机测试</name_ch>
+    <name_en>FM Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+<test_item id="26">  
+    <name_ch>主麦克风测试</name_ch>
+    <name_en>MIC Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="27">  
+    <name_ch>副麦克风测试</name_ch>
+    <name_en>SubMIC Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+
+<test_item id="28">  
+    <name_ch>后置摄像头</name_ch>
+    <name_en>Behind Camera Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>
+
+<test_item id="29">  
+    <name_ch>前置摄像头</name_ch>
+    <name_en>Behind Camera Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="30">  
+    <name_ch>重力传感器测试</name_ch>
+    <name_en>Gsensor Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>
+
+<test_item id="31">  
+    <name_ch>指南针测试</name_ch>
+    <name_en>COMPASS</name_en>  
+    <is_display>false</is_display>  
+</test_item>   
+
+<test_item id="32">  
+    <name_ch>MHL测试</name_ch>
+    <name_en>MHL Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+  
+<test_item id="33">  
+    <name_ch>OTG测试</name_ch>
+    <name_en>OTG Test</name_en>  
+    <is_display>true</is_display>  
+</test_item>  
+
+<test_item id="34">  
+    <name_ch>TV测试</name_ch>
+    <name_en>TV Test</name_en>  
+    <is_display>false</is_display>  
+</test_item> 
+
+<test_item id="35">  
+    <name_ch>NFC</name_ch>
+    <name_en>NFC</name_en>  
+    <is_display>false</is_display>  
+</test_item>
+<test_item id="36">  
+    <name_ch>霍尔感应</name_ch>
+    <name_en>Hall Test</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+<test_item id="37">  
+    <name_ch>陀螺仪</name_ch>
+    <name_en>Gyroscope</name_en>  
+    <is_display>false</is_display>  
+</test_item>  
+
+</test_item>  

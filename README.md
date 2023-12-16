@@ -1,0 +1,14 @@
+# full_k400_mt6580_32_n-userdebug 7.0 NRD90M vXD10000M test-keys
+- manufacturer: alps
+- platform: mt6580
+- codename: k400_mt6580_32_n
+- flavor: full_k400_mt6580_32_n-userdebug
+- release: 7.0
+- id: NRD90M
+- incremental: vXD10000M2
+- tags: test-keys
+- fingerprint: alps/full_k400_mt6580_32_n/k400_mt6580_32_n:7.0/NRD90M/vXD10000M:userdebug/test-keys
+- is_ab: false
+- brand: alps
+- branch: full_k400_mt6580_32_n-userdebug-7.0-NRD90M-vXD10000M-test-keys
+- repo: alps_k400_mt6580_32_n_dump
